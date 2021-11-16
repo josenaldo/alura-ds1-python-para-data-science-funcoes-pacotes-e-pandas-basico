@@ -1,4 +1,4 @@
-# $TITULO_DO_CURSO$
+# Python para Data Science: Funções, Pacotes e Pandas básico
 
 Esse repositório contém os exercícios e anotações do curso
 [Python para Data Science: Funções, Pacotes e Pandas básico](https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas), da Alura.
